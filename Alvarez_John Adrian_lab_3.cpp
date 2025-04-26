@@ -99,7 +99,7 @@ char peek(){
 
 
 int main(){
- string input = "(5+6)*2+1";
+ string input = "5+5+3*4-7";
  converToPostfix(input);
  
  return 0;
